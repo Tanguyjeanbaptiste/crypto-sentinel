@@ -4,8 +4,6 @@ Outil d'aide à la décision pour le trading de cryptomonnaies, développé dans
 
 L'application suit **100 cryptomonnaies en temps réel** (Binance), calcule un score de décision sur 100 pour chacune et gère un **portefeuille fictif de 10 000 $** en simulation (paper trading). Aucun ordre réel n'est passé.
 
-![Tableau de bord de The Crypto Sentinel](docs/image.png)
-
 ## Fonctionnement
 
 Chaque actif reçoit un score de 0 à 100 qui combine :
